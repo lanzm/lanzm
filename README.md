@@ -1,6 +1,6 @@
 <div align="center">
-
-  <img width="640" height="253" alt="rain_banner" src="https://github.com/user-attachments/assets/a3eb8eb3-5a9f-45c9-876c-ba3a50724389" />
+  
+  <img width="560" height="266" alt="rain_window_5xym_light" src="https://github.com/user-attachments/assets/92dfdd2e-cf22-40de-9b20-7d86154fc747" />
 
   <h1>Hi, I'm Jamie Lan 👋</h1>
 
